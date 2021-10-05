@@ -1,5 +1,5 @@
-# COMP313Micebreaker
-Github Repository for the COMP313 Micebreaker game. This was produced for COMP313 and MDDN321, and developed by Rose Barret, Daniel Marshall, Dorothy Ong, Jennifer Ong, Michelle Pretorius, and Li Yang
+# Micebreaker
+Github Repository for the Micebreaker game. This was produced for COMP313 and MDDN321, and developed by Rose Barret, Daniel Marshall, Dorothy Ong, Jennifer Ong, Michelle Pretorius, and Li Yang
 
 ## Links to external assets and libraries
 We did not use any external assets or libraries in this game, all art and code was developed by us
