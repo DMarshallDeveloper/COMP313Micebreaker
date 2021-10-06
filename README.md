@@ -60,7 +60,7 @@ Author: https://cafofomusic.com/
 13. hiss, Author: Michelle Pretorius
 
 ## Installation and Setup instructions
-We have packaged our game into an executable file, so simply download the file *Insert name of exe file here*, and double click to run it
+We have packaged our game into an executable file, so simply follow the link in the submitted pdf to download the correct file, unzip it and double click the .exe to run it
 
 ## Instructions on how to play the game
 In our game we have a tutorial to explain how to play, in the Main Menu, which should be the first screen to load after running the executable
