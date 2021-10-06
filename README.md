@@ -2,7 +2,7 @@
 Github Repository for the Micebreaker game. This was produced for COMP313 and MDDN321, and developed by Rose Barret, Daniel Marshall, Dorothy Ong, Jennifer Ong, Michelle Pretorius, and Li Yang
 
 ## Links to external assets and libraries
-We did not use any external assets or libraries in this game, all art and code was developed by us. We did however use third party sound effects, and they are listed with their sources here:
+We did not use any external image assets or libraries in this game, all art and code was developed by us. We did however use third party sound effects, and they are listed with their sources here:
 
 Main music
 https://www.purple-planet.com/
@@ -55,6 +55,9 @@ Copyright: https://www.aigei.com/
 Original Name: Item Purchase (4).wav
 Author: https://cafofomusic.com/
 
+12. purr = animal_cat_purr.mp3 from zapsplat and edited by Michelle
+
+13. hiss, Author: Michelle Pretorius
 
 ## Installation and Setup instructions
 We have packaged our game into an executable file, so simply download the file *Insert name of exe file here*, and double click to run it
